@@ -8,6 +8,6 @@ package clases;
  *
  * @author Pc
  */
-public class NewClass1dfsdfsdf {
+public class bryan {
     
 }
